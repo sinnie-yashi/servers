@@ -1,0 +1,11 @@
+{
+  "name": "my-first-node-attempt",
+  "version": "1.0.0",
+  "description": "This is my first attempt in using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jennifer-Y",
+  "license": "ISC"
+}
